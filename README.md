@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sujeet Verma</h1>
-<h3 align="center">A passionate tech lover and developer</h3>
+<h3 align="center">A passionate tech lover and web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetness&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetness" /> </p>
 
-- 📫 How to reach me **sujeetness@gmail.com**
+- 📫 reach me **sujeetness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
